@@ -65,6 +65,8 @@ After you're finished please remove all the comments and instructions!
 - Code Editor: Visual Studio
 - Testing: Rspec
 
+Pull request for back end : https://github.com/ijeomaodinko/hello-back-end/pull/1/
+
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
