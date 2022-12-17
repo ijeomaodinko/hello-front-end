@@ -54,7 +54,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 React-Rails-Oneapp 🌍<a name="about-project"></a>
+# 📖 React-Rails-App 🌍<a name="about-project"></a>
 
 **React-front-end** is an app that uses react as the front end and railsfor the back end. 
 
